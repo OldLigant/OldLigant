@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OldLigant
 - 👀 I’m interested in complex system
-- 🌱 I’m currently learning electric engineering
+- 🌱 I’m currently learning ***
 - 💞️ I’m looking to collaborate on ***
 - 📫 How to reach me ***
 
